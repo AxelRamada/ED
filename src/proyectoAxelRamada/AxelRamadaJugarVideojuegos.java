@@ -13,6 +13,13 @@ public class AxelRamadaJugarVideojuegos {
 		
 		
 		
+		
+	}
+	
+	public String getnombreHobby() {
+		
+		
+		return nombreHobby;
 	}
 	
 	

@@ -26,6 +26,11 @@ public class AxelRamadaJugarVideojuegos {
 		nombreHobby=nombre;
 		
 	}
+	public String getGenero() {
+		
+		
+		return genero;
+	}
 	
 	
 	

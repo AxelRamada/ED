@@ -31,7 +31,11 @@ public class AxelRamadaJugarVideojuegos {
 		
 		return genero;
 	}
+	public void setGenero(String generito) {
+		
+		genero=generito;
 	
 	
 	
+	}
 }

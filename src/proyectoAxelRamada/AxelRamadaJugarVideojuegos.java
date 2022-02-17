@@ -41,4 +41,10 @@ public class AxelRamadaJugarVideojuegos {
 		
 		return plataforma;
 	}
+public void setPlataforma(String plataformita) {
+		
+		
+		plataforma =plataformita;
+	}
+	
 }

@@ -35,7 +35,10 @@ public class AxelRamadaJugarVideojuegos {
 		
 		genero=generito;
 	
-	
-	
+	}
+	public String getPlataforma() {
+		
+		
+		return plataforma;
 	}
 }

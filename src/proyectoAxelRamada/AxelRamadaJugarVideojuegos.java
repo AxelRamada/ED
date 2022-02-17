@@ -16,10 +16,15 @@ public class AxelRamadaJugarVideojuegos {
 		
 	}
 	
-	public String getnombreHobby() {
+	public String getNombreHobby() {
 		
 		
 		return nombreHobby;
+	}
+	public void setNombreHobby(String nombre) {
+		
+		nombreHobby=nombre;
+		
 	}
 	
 	

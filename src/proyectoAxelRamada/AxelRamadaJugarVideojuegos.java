@@ -46,5 +46,14 @@ public void setPlataforma(String plataformita) {
 		
 		plataforma =plataformita;
 	}
+private void bucle() {
+	for(int i=1;1<1001;i++) {
+		
+		System.out.println(nombreHobby);
+		
+	}
+	
+	
+}
 	
 }
